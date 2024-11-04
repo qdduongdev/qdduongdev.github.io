@@ -1,28 +1,25 @@
-💐Resource flowers gift website for someone
+<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<img align="right" width="64" src="https://github.com/qdduongdev.png" />
+<!-- <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/> -->
 
-# Flowers for Someone 🌸
+<h2 align="center">Hi 👋, I'm Duongdev</h2>
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
 
-Welcome to Flowers for Someone! 🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones. Express your sentiments with the beauty of nature!
+> ✍ I'm Duong.Developer
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+<br />
 
-## Introduction
-
-Flowers for Someone is your ultimate destination for heartfelt floral gifting. Whether it's a special occasion or just to brighten someone's day, our website offers a delightful of flower arrangements, bouquets, and personalized messages.
-
-## Technologies Used
-
-This project utilizes the following programming languages and technologies:
-- HTML
-- CSS
-- SCSS (Sass)
-- JavaScript
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine:
+## 📫 How to reach me:
+<p align="center">
+  <a href="https://www.facebook.com/QdDuong.2007" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/Dethnote2007" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:than47069@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
